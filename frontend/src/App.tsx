@@ -11,8 +11,6 @@ function App() {
 			<div>
 				<UploadCSV setDataSource={setDataSource} />
 				<br />
-				<UploadBinary setDataSource={setDataSource} />
-				<br />
 				<Chart dataSource={dataSource} />
 			</div>
 		</div>
