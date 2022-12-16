@@ -26,3 +26,5 @@ dist-ssr
 *.pdf
 xsm/
 *.zip
+*.txt
+*.fit*

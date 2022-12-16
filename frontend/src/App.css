@@ -1,0 +1,8 @@
+.centered {
+    display: flex;
+    justify-content: center;
+}
+
+.test1 {
+    border: 1px solid red;
+}
